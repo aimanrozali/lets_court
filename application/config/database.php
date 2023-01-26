@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn' => '',
-	'hostname' => '34.165.213.243',
+	'hostname' => 'localhost',
 	'username' => 'root',
-	'password' => 'i1SDtffwA9KRKa',
+	'password' => 'password',
 	'database' => 'lets-court-db',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
